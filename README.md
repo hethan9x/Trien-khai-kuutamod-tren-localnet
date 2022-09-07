@@ -1,4 +1,4 @@
-### Triển khai kuutamod trên a localnet
+### Triển khai kuutamod trên localnet
 
 Đầu tiên bạn cần chuẩn bị thiết bị của mình chạy một trong các hệ điều hành sau: Linux, MacOS, Windows (WSL2), Docker.
 
